@@ -1,0 +1,170 @@
+[
+    {
+        "name": "SCRIPTME AB",
+        "original_name": "Scriptme AB",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-scriptme-ab",
+            "uri": "https://www.eu-startups.com/directory/scriptme-ab/"
+        },
+        "location": {
+            "country": "Sweden",
+            "city": "Stockholm"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "Transcription"
+            },
+            {
+                "type": "tag",
+                "label": "audio to text"
+            },
+            {
+                "type": "tag",
+                "label": "speech to text"
+            },
+            {
+                "type": "tag",
+                "label": "subtitles"
+            },
+            {
+                "type": "tag",
+                "label": ""
+            }
+        ],
+        "founded": "2020-01-01",
+        "website": {
+            "url": "https://scriptme.io"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/transcrever-Youtube-videos-with-ScriptMe-500x337.jpg"
+    },
+    {
+        "name": "SKILLSCANNER",
+        "original_name": "Skillscanner",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-skillscanner",
+            "uri": "https://www.eu-startups.com/directory/skillscanner/"
+        },
+        "location": {
+            "country": "Norway",
+            "city": "Oslo"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "recruitment"
+            },
+            {
+                "type": "tag",
+                "label": "ai"
+            },
+            {
+                "type": "tag",
+                "label": "job"
+            },
+            {
+                "type": "tag",
+                "label": "recruiting"
+            }
+        ],
+        "founded": "2023-01-01",
+        "website": {
+            "url": "www.skillscanner.ai"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/skillscanner-vision-pro-500x324.webp"
+    },
+    {
+        "name": "KEDRA LIVE CHAT & AI CHATBOT",
+        "original_name": "Kedra Live Chat & AI Chatbot",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-kedra-live-chat-&-ai-chatbot",
+            "uri": "https://www.eu-startups.com/directory/kedra-live-chat-&-ai-chatbot/"
+        },
+        "location": {
+            "country": "Lithuania",
+            "city": "Vilnius"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "ai chatbot"
+            },
+            {
+                "type": "tag",
+                "label": "chat widget"
+            },
+            {
+                "type": "tag",
+                "label": "live chat"
+            },
+            {
+                "type": "tag",
+                "label": "customer support"
+            },
+            {
+                "type": "tag",
+                "label": "shopify app"
+            }
+        ],
+        "founded": "2023-01-01",
+        "website": {
+            "url": "https://www.kedra.io"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/kedra-app-logo-500x500.png"
+    },
+    {
+        "name": "ASKROBIN",
+        "original_name": "askRobin",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-askrobin",
+            "uri": "https://www.eu-startups.com/directory/askrobin/"
+        },
+        "location": {
+            "country": "Netherlands",
+            "city": "Amsterdam"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "AI HR WhatsApp Assistant"
+            }
+        ],
+        "founded": "2023-01-01",
+        "website": {
+            "url": "askrobin.ai"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/LOGO-1-500x163.jpg"
+    },
+    {
+        "name": "ALL TYPES OF CUSTOMIZED PATCHES AVAILABLE AT GULF PATCHES",
+        "original_name": "All types of Customized patches available at Gulf Patches",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-all-types-of-customized-patches-available-at-gulf-patches",
+            "uri": "https://www.eu-startups.com/directory/all-types-of-customized-patches-available-at-gulf-patches/"
+        },
+        "location": {
+            "country": "UK",
+            "city": "Dubai"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "custom patches"
+            },
+            {
+                "type": "tag",
+                "label": "football patches"
+            }
+        ],
+        "founded": "2004-01-01",
+        "website": {
+            "url": "https://www.gulfpatches.com/"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/logo-500x500.jpg"
+    }
+]

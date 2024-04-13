@@ -1,0 +1,206 @@
+[
+    {
+        "name": "SIMPLYPAY LTD",
+        "original_name": "SimplyPay LTD",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-simplypay-ltd",
+            "uri": "https://www.eu-startups.com/directory/simplypay-ltd/"
+        },
+        "location": {
+            "country": "Malta",
+            "city": "L-Imsida"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "self-service kiosks"
+            },
+            {
+                "type": "tag",
+                "label": "vehicle tracking and fleet management"
+            },
+            {
+                "type": "tag",
+                "label": "cash handling systems"
+            },
+            {
+                "type": "tag",
+                "label": "digital signage solutions"
+            },
+            {
+                "type": "tag",
+                "label": "cutting-edge technology"
+            }
+        ],
+        "founded": "2018-01-01",
+        "website": {
+            "url": "https://www.simply-solutions.eu/"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/SimplyPay-1-500x498.jpg"
+    },
+    {
+        "name": "LOW CODE & NO CODE PLATFORMS",
+        "original_name": "Low Code & No Code platforms",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-low-code-&-no-code-platforms",
+            "uri": "https://www.eu-startups.com/directory/low-code-&-no-code-platforms/"
+        },
+        "location": {
+            "country": "Norway",
+            "city": "Oslo"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "nocode"
+            },
+            {
+                "type": "tag",
+                "label": "lowcode"
+            },
+            {
+                "type": "tag",
+                "label": "marketing"
+            }
+        ],
+        "founded": "2023-01-01",
+        "website": {
+            "url": "https://lowcodenocode.org/"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/Low-Code-No-Code-SS-1-500x258.png"
+    },
+    {
+        "name": "GHOSTWRITER DEUTSCH",
+        "original_name": "Ghostwriter Deutsch",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-ghostwriter-deutsch",
+            "uri": "https://www.eu-startups.com/directory/ghostwriter-deutsch/"
+        },
+        "location": {
+            "country": "Germany",
+            "city": "Brandenburg, Frankfurt am Main"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "Essay"
+            },
+            {
+                "type": "tag",
+                "label": "Writing"
+            },
+            {
+                "type": "tag",
+                "label": "Education"
+            },
+            {
+                "type": "tag",
+                "label": "Universities"
+            },
+            {
+                "type": "tag",
+                "label": "University Students"
+            },
+            {
+                "type": "tag",
+                "label": "Research"
+            },
+            {
+                "type": "tag",
+                "label": "Higher Education"
+            },
+            {
+                "type": "tag",
+                "label": "College"
+            }
+        ],
+        "founded": "2016-01-01",
+        "website": {
+            "url": "https://ghostwriterdeutsch.de"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/ghostwriter-deutsch-logo-cropped.png"
+    },
+    {
+        "name": "BWL GHOSTWRITER",
+        "original_name": "BWL Ghostwriter",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-bwl-ghostwriter",
+            "uri": "https://www.eu-startups.com/directory/bwl-ghostwriter/"
+        },
+        "location": {
+            "country": "Germany",
+            "city": "Bayern, N\u00fcrnberg"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "Essay"
+            },
+            {
+                "type": "tag",
+                "label": "Writing"
+            },
+            {
+                "type": "tag",
+                "label": "Education"
+            },
+            {
+                "type": "tag",
+                "label": "Research"
+            },
+            {
+                "type": "tag",
+                "label": "Universities"
+            },
+            {
+                "type": "tag",
+                "label": "University Students"
+            },
+            {
+                "type": "tag",
+                "label": "Papers"
+            }
+        ],
+        "founded": "2011-01-01",
+        "website": {
+            "url": "https://bwl-ghostwriter.de"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/bwl-ghostwriter-logo-cropped.png"
+    },
+    {
+        "name": "BUY SELL STARTUPS",
+        "original_name": "Buy Sell Startups",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-buy-sell-startups",
+            "uri": "https://www.eu-startups.com/directory/buy-sell-startups/"
+        },
+        "location": {
+            "country": "UK",
+            "city": "London"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "Startups"
+            },
+            {
+                "type": "tag",
+                "label": "Acquisition Marketplace"
+            },
+            {
+                "type": "tag",
+                "label": "Buy Sell Startups"
+            }
+        ],
+        "founded": "2023-01-01",
+        "website": {
+            "url": "https://www.buysellstartups.com"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/08f8a5de-88e5-4b39-b1d7-46d40e7ec3d3_500x500.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "TAAM-WEB3",
+        "original_name": "TAAM-Web3",
+        "source": {
+            "name": "eu-startups",
+            "id": "eu-startups.com-taam-web3",
+            "uri": "https://www.eu-startups.com/directory/taam-web3/"
+        },
+        "location": {
+            "country": "UK",
+            "city": "London"
+        },
+        "tag": [
+            {
+                "type": "tag",
+                "label": "Self driving"
+            },
+            {
+                "type": "tag",
+                "label": "AI"
+            },
+            {
+                "type": "tag",
+                "label": "cryptocurrency"
+            },
+            {
+                "type": "tag",
+                "label": "LLMs"
+            }
+        ],
+        "founded": "2023-01-01",
+        "website": {
+            "url": "HTTPS://taam-web3.crd.co"
+        },
+        "logo": "https://www.eu-startups.com/wp-content/uploads/2024/04/IMG_0274-366x500.jpeg"
+    }
+]
