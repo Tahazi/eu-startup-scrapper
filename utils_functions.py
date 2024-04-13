@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+from concurrent.futures import ThreadPoolExecutor
+
 
 # Function to scrape company data from a single page
 def scrape_company_page(url):
@@ -89,9 +91,10 @@ def scrape_directory_page(url):
 
   # Loop through each link and call scrape_company_page
   company_data = []
-  for link in company_links:
-    company_data.append(scrape_company_page(link))
-    print(f"{link.split('/')[-2]} complete")
+ # Use ThreadPoolExecutor for parallel execution
+  with ThreadPoolExecutor() as executor:
+    company_data = list(executor.map(scrape_company_page, company_links))
+
   return company_data
 
 def write_companies_to_files(company_data, file_prefix="companies_", max_companies_per_file=5):
