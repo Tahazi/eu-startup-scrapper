@@ -24,7 +24,8 @@ Run the script from the command line, specifying the base URL of the directory a
 ```bash
 python scrape_startups.py <base_url> --max_pages MAX_PAGES
 ```
-Replace `<base_url>` with the actual URL you want to scrape and `MAX_PAGES` with the desired number of pages to process. The script will output JSON files with the data of the scraped companies.
+Replace `<base_url>` with the actual URL you want to scrape and `MAX_PAGES` with the desired number of pages to process to avoid scraping all the website if it's not needed. 
+The script will output JSON files with the data of the scraped companies.
 
 ## Configuration
 The output file settings can be adjusted in the `utils_functions.py` file, where you can set the prefix and maximum number of companies per file.
@@ -36,9 +37,6 @@ Contributions to this project are welcome. To contribute:
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Output Data Schema
 
@@ -60,3 +58,6 @@ The JSON output for each company contains the following structure:
 - **website**:
   - **url**: URL
 - **logo**: String (URL or path to the logo)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
